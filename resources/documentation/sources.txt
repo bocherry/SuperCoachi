@@ -1,0 +1,6 @@
+http://www.devexchanges.info/2015/03/simple-moving-object-with-touch-events.html
+https://stackoverflow.com/questions/9398057/android-move-a-view-on-touch-move-action-move
+https://stackoverflow.com/questions/17919933/action-bar-does-not-show
+https://openclassrooms.com/courses/developpez-une-application-pour-android
+https://developer.android.com/reference/android/app/ActionBar.html
+https://developer.android.com/reference/android/view/MotionEvent.html
