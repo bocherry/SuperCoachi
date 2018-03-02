@@ -16,7 +16,7 @@
             android:layout_height="247dp"
             android:gravity="bottom"
             android:text="Hockey"
-            android:textSize="100sp" />
+            android:textSize="80sp" />
 
         <Button
             android:id="@+id/rugby"
